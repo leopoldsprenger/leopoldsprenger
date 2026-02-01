@@ -1,25 +1,22 @@
 # 👋 Hi, I'm Leopold
 
-I'm a student focused on computer science, mathematics, and systems design.  
-I use code to model ideas, build useful tools, and deepen my understanding of technical foundations.
+I build systems that simplify and optimize complex processes through code and computation.  
+I work on independent projects exploring algorithms, modeling systems, and testing ideas in practice.
 
-- 🧠 I explore algorithms, neural networks, and intelligent systems with a focus on practical applications  
-- 🧪 I build independent projects to test and refine technical ideas  
-- 🔬 I approach learning through structured experimentation and long-term iteration  
+Some areas I focus on:
 
-<br/>
+- Algorithms and data structures, implementing and optimizing classical and modern methods
+- Systems and automation: building tools to streamline workflows and experiments
+- Numerical and scientific computing: analyzing data, running simulations, visualizing results
+- Code-driven experiments: testing heuristics, AI methods, and computational ideas
+- Dev tooling and productivity: CLI tools, scripts, and lightweight APIs
+
+---
+
+### Languages & Tools
 
 <div align="left">
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   &nbsp;
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-
-<!-- GitHub stats can be added later once profile activity is higher
-
-<br/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leopoldsprenger&show_icons=true&theme=react" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldsprenger&layout=compact" />
-
--->
